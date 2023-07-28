@@ -1,7 +1,10 @@
 <h1 align="center">Space Cream</h1>
 
-<p>
+<p align="center">
   <img alt="Space Cream" src=".github/preview-desktop.png" width="70%" style="vertical-align: top;">
+</p>
+
+<p align="center">
   <img alt="Space Cream" src=".github/preview.png" width="18%">
 </p>
 
